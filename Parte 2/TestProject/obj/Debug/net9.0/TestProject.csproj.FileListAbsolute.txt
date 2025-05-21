@@ -1,0 +1,15 @@
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/TestProject.sourcelink.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/bin/Debug/net9.0/TestProject
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/bin/Debug/net9.0/TestProject.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/bin/Debug/net9.0/TestProject.pdb
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/TestProject.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/TestProject.pdb
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/Debug/net9.0/ref/TestProject.dll

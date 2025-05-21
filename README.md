@@ -1,2 +1,2 @@
 # Csharp-freecodecamp
-Algunos ejercicios
+Ejercicios para aprender C#

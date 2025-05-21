@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Parte 2\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Desafio_2\\Desafio_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Parte 2\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Desafio_2\\Desafio_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Parte 2\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Parte 2\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Desafio_2\\Desafio_2.csproj",
+        "projectName": "Desafio_2",
+        "projectPath": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Desafio_2\\Desafio_2.csproj",
         "packagesPath": "C:\\Users\\Aeonics\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Parte 2\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Desafio_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

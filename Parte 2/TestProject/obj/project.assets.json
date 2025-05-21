@@ -8,25 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/aeonics/.nuget/packages/": {}
+    "C:\\Users\\Aeonics\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Parte 2\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/TestProject.csproj",
-      "packagesPath": "/Users/aeonics/.nuget/packages/",
-      "outputPath": "/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/TestProject/obj/",
+      "projectPath": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Parte 2\\TestProject\\TestProject.csproj",
+      "packagesPath": "C:\\Users\\Aeonics\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aeonics\\Documents\\GIT\\Csharp-freecodecamp\\Parte 2\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/aeonics/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Aeonics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -66,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.5/libexec/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

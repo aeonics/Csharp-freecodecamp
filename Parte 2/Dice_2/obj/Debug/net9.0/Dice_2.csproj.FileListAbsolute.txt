@@ -1,0 +1,15 @@
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/bin/Debug/net9.0/Dice_2
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/bin/Debug/net9.0/Dice_2.deps.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/bin/Debug/net9.0/Dice_2.runtimeconfig.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/bin/Debug/net9.0/Dice_2.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/bin/Debug/net9.0/Dice_2.pdb
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/Dice_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/Dice_2.AssemblyInfoInputs.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/Dice_2.AssemblyInfo.cs
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/Dice_2.csproj.CoreCompileInputs.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/Dice_2.sourcelink.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/Dice_2.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/refint/Dice_2.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/Dice_2.pdb
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/Dice_2.genruntimeconfig.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/Dice_2/obj/Debug/net9.0/ref/Dice_2.dll

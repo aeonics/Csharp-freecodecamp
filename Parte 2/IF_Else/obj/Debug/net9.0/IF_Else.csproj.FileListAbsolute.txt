@@ -1,0 +1,15 @@
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/bin/Debug/net9.0/IF_Else
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/bin/Debug/net9.0/IF_Else.deps.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/bin/Debug/net9.0/IF_Else.runtimeconfig.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/bin/Debug/net9.0/IF_Else.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/bin/Debug/net9.0/IF_Else.pdb
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/IF_Else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/IF_Else.AssemblyInfoInputs.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/IF_Else.AssemblyInfo.cs
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/IF_Else.csproj.CoreCompileInputs.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/IF_Else.sourcelink.json
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/IF_Else.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/refint/IF_Else.dll
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/IF_Else.pdb
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/IF_Else.genruntimeconfig.cache
+/Users/aeonics/Documents/Csharp-freecodecamp/Parte 2/IF_Else/obj/Debug/net9.0/ref/IF_Else.dll

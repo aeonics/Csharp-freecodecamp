@@ -1,0 +1,15 @@
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ReglasN.GeneratedMSBuildEditorConfig.editorconfig
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ReglasN.AssemblyInfoInputs.cache
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ReglasN.AssemblyInfo.cs
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ReglasN.csproj.CoreCompileInputs.cache
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ReglasN.sourcelink.json
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/bin/Debug/net8.0/ReglasN
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/bin/Debug/net8.0/ReglasN.deps.json
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/bin/Debug/net8.0/ReglasN.runtimeconfig.json
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/bin/Debug/net8.0/ReglasN.dll
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/bin/Debug/net8.0/ReglasN.pdb
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ReglasN.dll
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/refint/ReglasN.dll
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ReglasN.pdb
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ReglasN.genruntimeconfig.cache
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/Reglas de Negocio/ReglasN/obj/Debug/net8.0/ref/ReglasN.dll

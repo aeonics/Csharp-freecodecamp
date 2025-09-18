@@ -1,0 +1,15 @@
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/DesafioPedidoFraudulento.GeneratedMSBuildEditorConfig.editorconfig
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/DesafioPedidoFraudulento.AssemblyInfoInputs.cache
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/DesafioPedidoFraudulento.AssemblyInfo.cs
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/DesafioPedidoFraudulento.csproj.CoreCompileInputs.cache
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/DesafioPedidoFraudulento.sourcelink.json
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/bin/Debug/net8.0/DesafioPedidoFraudulento
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/bin/Debug/net8.0/DesafioPedidoFraudulento.deps.json
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/bin/Debug/net8.0/DesafioPedidoFraudulento.runtimeconfig.json
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/bin/Debug/net8.0/DesafioPedidoFraudulento.dll
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/bin/Debug/net8.0/DesafioPedidoFraudulento.pdb
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/DesafioPedidoFraudulento.dll
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/refint/DesafioPedidoFraudulento.dll
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/DesafioPedidoFraudulento.pdb
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/DesafioPedidoFraudulento.genruntimeconfig.cache
+/home/aeonics/MEGA/Projects/C#/Csharp-freecodecamp/DesafioPedidoFraudulento/obj/Debug/net8.0/ref/DesafioPedidoFraudulento.dll
